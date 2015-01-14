@@ -1,0 +1,1 @@
+example application **Best Quotes** from the book **Rebuilding Rails** of Noah Gibbs 
