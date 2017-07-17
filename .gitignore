@@ -1,0 +1,4 @@
+*.db
+
+mini_migration.rb
+sqlite_test.rb
